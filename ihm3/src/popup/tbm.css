@@ -1,0 +1,10 @@
+.tbm {
+    background-color: #633D19;
+    font-size: 50px; /* ปรับขนาด font ตามความต้องการ */
+    color: #C2A891;
+    max-height: 1100px; /* ปรับสูงสุดให้มีความสูงที่ต้องการ */
+    
+    overflow: hidden; /* ซ่อนส่วนที่เกินขอบเขต */
+    white-space: nowrap; /* ไม่ตัดข้อความเมื่อมีการเกินขอบเขต */
+    text-align: center;
+}

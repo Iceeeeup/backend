@@ -1,0 +1,12 @@
+.nva-bar{
+    background-color: #C2A891;
+    border-bottom: 2px solid #fff;
+    height : 50px;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: #fff;
+    
+  }
+  

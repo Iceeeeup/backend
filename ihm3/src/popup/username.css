@@ -1,0 +1,10 @@
+.username{
+    font-size: 20px;
+    border: 15px solid #fff;
+    border-radius: 30px;
+    background-color: #fff;
+    display: grid;
+    margin-left: 500px;
+    margin-right: 500px;
+    color: #633D19;
+}
